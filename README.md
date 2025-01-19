@@ -7,23 +7,23 @@ A comprehensive guide to setting up and running a basic Django project, includin
 
 ### 1. Create a virtual environment:
 windows
-    ```sh
-    python -m venv env
-    ```
+```sh
+python -m venv env
+```
 mac
-    ```sh
-    python3 -m venv env
-    ```
+```sh
+python3 -m venv env
+```
     
 ### 2. Activate the virtual environment:
 windows
-    ```sh
-    .env\Scripts\activate
-    ```
+```sh
+.env\Scripts\activate
+```
 mac
-    ```sh
-    source env/bin/activate
-    ```
+```sh
+source env/bin/activate
+```
 
 ## Install Django
 
