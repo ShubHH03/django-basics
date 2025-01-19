@@ -1,7 +1,7 @@
 
 # Django Basics
 
-This repository provides a basic setup for a Django project. It includes instructions for setting up the environment, creating a Django project, running the project, and creating an app within the project.
+A comprehensive guide to setting up and running a basic Django project, including environment setup, project creation, and app development.
 
 ## Environment Setup
 
