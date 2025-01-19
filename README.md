@@ -1,6 +1,4 @@
-Here is a suggested README file for your Django basics repository:
 
-```markdown
 # Django Basics
 
 This repository provides a basic setup for a Django project. It includes instructions for setting up the environment, creating a Django project, running the project, and creating an app within the project.
@@ -66,4 +64,3 @@ python manage.py startapp <app-name>
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
